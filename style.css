@@ -208,6 +208,9 @@ main {
     .side-bar {
         display: none;
     }
+    .mainsection {
+        margin-left: 0px;
+    }
 
 }
 .material-symbols-outlined {
